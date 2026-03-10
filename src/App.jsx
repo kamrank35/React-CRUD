@@ -1,9 +1,7 @@
 import React,{ useState } from 'react'
 import './App.css'
 import Navbar from './components/Navbar';
-import Button from './components/buttons';
 import Sidebar from './components/sidebar';
-import InputField from './components/InputFeilds';
 import Dashboard from './pages/dashboard';
 import AddItem from './pages/Additem';
 import EditItem from './pages/Edititem';
